@@ -1,4 +1,5 @@
-# D-FLIPDLOP-NEGEDGE
+# DATE:
+# EXP-8:D-FLIPDLOP-NEGEDGE
 
 **AIM:**
 
@@ -8,7 +9,7 @@ To implement  D flipflop using verilog and validating their functionality using 
 
 Quartus prime
 
-**THEORY**
+
 
 **D Flip-Flop**
 
